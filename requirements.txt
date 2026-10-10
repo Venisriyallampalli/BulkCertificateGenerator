@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+reportlab
+pytest
+httpx
+pypdf
+=======
+
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+reportlab
+pytest
+httpx
+pypdf
+>>>>>>> e6800a40c33f334fdb367423cde6c908586ffc0f
