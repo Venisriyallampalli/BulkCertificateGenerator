@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bulk Certificate Generator
 
 A Python REST API that generates personalized PDF certificates for multiple recipients in a single request. The application validates recipient details independently, records each certificate's status, and allows successful PDFs to be downloaded.
@@ -370,6 +369,3 @@ The current automated test suite contains 14 tests, all passing.
 - Integer-based certificate IDs are used in PDF filenames.
 - Processing is synchronous: the job finishes before the creation request returns.
 - Generated PDFs are stored under the configured storage directory.
-
-See `DESIGN.md` for the detailed design specification.
->>>>>>> e6800a40c33f334fdb367423cde6c908586ffc0f
